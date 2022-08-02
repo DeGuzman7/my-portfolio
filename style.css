@@ -165,7 +165,6 @@ body{
   .btn:hover{
     background-color: var(--blue);
     color: var(--white);
-    border: none;
   }
   
   .cartoon{
